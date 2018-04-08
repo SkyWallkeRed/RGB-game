@@ -1,0 +1,59 @@
+body {
+    background-color: #232323;
+}
+
+.square {
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+}
+
+#message {
+    color: black;
+}
+
+#strip {
+    background: wheat;
+    height: 34px;
+    text-align: center;
+}
+
+.circle {
+    border-radius: 20%;
+    /* width: 100px;
+    height: 100px; */
+}
+
+
+/* 
+#div2blink {
+    -webkit-transition: backgroundColor 0.05s ease-in-out;
+    -ms-transition: backgroundColor 0.05s ease-in-out;
+    transition: backgroundColor 0.05s ease-in-out;
+} */
+
+.red {
+    /* height: 100px;
+    width: 100px; */
+    /* margin: 20px; */
+    /* background-color: red; */
+}
+
+.green {
+    /* height: 100px;
+    width: 100px; */
+    /* margin: 20px; */
+    /* background-color: green; */
+}
